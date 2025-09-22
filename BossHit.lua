@@ -1,7 +1,7 @@
 --[[
-    BossHit - Stable Boss Swing Timer for Turtle WoW
+    BossHit - Boss Swing Timer
     
-    Shows swing timers for boss monsters with correct parry haste calculation.
+    Shows swing timer for boss monsters, trying to show a correct timing with parry haste calculation.
     Tracks boss swings using combat messages and displays a configurable timer bar.
     
     Commands:
@@ -120,7 +120,7 @@ local bossNames = {
     ["Sapphiron"] = true,
     ["Kel'Thuzad"] = true,
     
-    -- Upper Karazhan Halls
+    -- Kara40
     ["Keeper Gnarlmoon"] = true,
     ["Ley-Watcher Incantagos"] = true,
     ["Echo of Medivh"] = true,
