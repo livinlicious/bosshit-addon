@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: BossHit - Stable Boss Swing Timer
-## Notes: Stable swing timer with correct parry haste calculation and combat log delay compensation. Commands: /bosshit help
+## Notes: Boss Swing Timer (Commands: /bosshit + /bosshit help)
 ## Version: 2.1
 ## Author: Livin
 ## SavedVariables: BossHitDB
